@@ -40,6 +40,12 @@ http://english.stackexchange.com/questions/70384/difference-between-robot-machin
 			</version>
 			-->
 		</requires>
+		<requires interface="https://github.com/worlddevelopment/linkable_operationing_system/0install.xml">
+			<!--
+			<version not-before="">
+			</version>
+			-->
+		</requires>
 		<requires interface="http://raw.githubusercontent.com/faerietree/manipulator/0install.xml">
 			<!--
 			<version not-before="">
