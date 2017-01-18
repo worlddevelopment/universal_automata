@@ -34,13 +34,13 @@ http://english.stackexchange.com/questions/70384/difference-between-robot-machin
 			</version>
 			-->
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/kit/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/wheeler/0install.xml">
 			<!--
 			<version not-before="">
 			</version>
 			-->
 		</requires>
-		<requires interface="https://github.com/worlddevelopment/linkable_operationing_system/0install.xml">
+		<requires interface="https://github.com/worlddevelopment/linkable_operating_system/0install.xml">
 			<!--
 			<version not-before="">
 			</version>
@@ -58,7 +58,7 @@ http://english.stackexchange.com/questions/70384/difference-between-robot-machin
 			</version>
 			-->
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/quadruped/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/walker/0install.xml">
 			<!--
 			<version not-before="">
 			</version>
