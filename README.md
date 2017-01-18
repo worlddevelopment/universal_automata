@@ -8,3 +8,9 @@ Source:
 http://english.stackexchange.com/questions/70384/difference-between-robot-machine-and-automaton#answer-70593
 
 
+
+Dependencies
+---
+see [`<requires>` elements in local.xml](local.xml)
+
+
