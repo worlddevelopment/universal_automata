@@ -11,6 +11,14 @@ http://english.stackexchange.com/questions/70384/difference-between-robot-machin
 
 Dependencies
 ---
-see [`<requires>` elements in local.xml](local.xml)
+* [backpack](http://github.com/faerietree/#backpack)
+* [biped (android)](http://github.com/faerietree/#biped)
+* [broom](http://github.com/faerietree/#broom)
+* [manipulator](http://github.com/faerietree/manipulator)
+* [quadruped](http://github.com/faerietree/#quadruped)
+* [walker](http://github.com/faerietree/walker)
+* [wheeler (kit)](http://github.com/faerietree/wheeler)
+
+extracted from [`<requires>` elements in local.xml](local.xml)
 
 
