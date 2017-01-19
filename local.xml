@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<interface uri="http://raw.githubusercontent.com/worlddevelopment/universal_automata/master/0install.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="http://raw.githubusercontent.com/worlddevelopment/universal_automata/master/public/interface.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
 	<name>Universal automata</name>
 	<summary>
 A collection of deliberately flexible / trainable automatic machines, including functional (higher order) automatic machines, also known as "robot" which is rejected by world development because it relates to "slave", "worker". This decision may not be as futuristic as it sounds.
@@ -22,19 +22,19 @@ http://english.stackexchange.com/questions/70384/difference-between-robot-machin
 	<category>Development</category>
 	<group version='0.1' main="" doc-dir="doc" license="CC-BY-SA">
 		<!-- for this group common dependencies: -->
-		<requires interface="http://raw.githubusercontent.com/faerietree/backpack/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/backpack/public/interface.xml">
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/biped/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/biped/public/interface.xml">
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/broom/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/broom/public/interface.xml">
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/manipulator/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/manipulator/public/interface.xml">
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/quadruped/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/quadruped/public/interface.xml">
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/walker/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/walker/public/interface.xml">
 		</requires>
-		<requires interface="http://raw.githubusercontent.com/faerietree/wheeler/0install.xml">
+		<requires interface="http://raw.githubusercontent.com/faerietree/wheeler/public/interface.xml">
 		</requires>
 
 	</group>
